@@ -11,7 +11,7 @@ import g4f
 logging.basicConfig(level=logging.INFO)
 
 # Initialize bot and dispatcher
-bot = Bot(token="TOKEN")
+bot = Bot(token=" TOKEN ")
 dp = Dispatcher()
 
 # User preferences and message history storage
