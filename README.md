@@ -28,5 +28,5 @@ python bot.py
 
 ## 🎉 Приятного использования!
 ## Если нужна помощь - свяжитесь со мной
-- https://vk.com/danyaqqqx	                       	
-- https://t.me/danyaqqqx
+- https://vk.com/danya_montoya                     	
+- https://t.me/danya_montoya
